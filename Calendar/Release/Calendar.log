@@ -1,0 +1,19 @@
+﻿Build started 23/12/2015 1:15:06 CH.
+     1>Project "D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Calendar\Calendar.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Date.cpp
+         Date.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Release\Calendar.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Release\Calendar.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Release\Calendar.lib" /MACHINE:X86 /SAFESEH Release\Clock.obj
+         Release\Date.obj
+         Release\Main.obj
+         Release\SmartWatch.obj
+         Release\Graphics.obj
+         Generating code
+         Finished generating code
+         Calendar.vcxproj -> D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Release\Calendar.exe
+     1>Done Building Project "D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\Dynamic Link Library (Thư viện liên kết động)\1. Project\Calendar\Calendar\Calendar.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80
