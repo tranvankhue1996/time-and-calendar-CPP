@@ -1,4 +1,4 @@
-# Time and Calendar [App]
+# Time and Calendar [App] -> first app in my github 
 This basic app is written in c++
 If you have problems, please talk to me
 
@@ -7,4 +7,4 @@ you can translate this !!! :D good luck
 ### Preview
 ![alt tag](https://raw.githubusercontent.com/tranvankhue1996/time-and-calendar-CPP/master/Preview/1.png)
 
-##### Click start if you like !
+##### thankyou for watching !!!
